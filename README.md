@@ -13,7 +13,6 @@ These are some Images related to Quiz Applcation It is verry basic application y
 
 ## Screenshots
 ![Screenshot 2024-03-26 100905](https://github.com/mohdkaif2304/Quiz-Application/assets/118160035/f4a8aca3-39f7-40da-92b3-973032ffc18b)
-![Screenshot 2024-03-26 103317](https://github.com/mohdkaif2304/Quiz-Application/assets/118160035/1ff7693f-8bd9-4143-b945-6ac97df25b54)
 ![Screenshot 2024-03-26 103250](https://github.com/mohdkaif2304/Quiz-Application/assets/118160035/860e7338-7124-419a-8fd2-488a4df1e404)
 ![Screenshot 2024-03-26 103317](https://github.com/mohdkaif2304/Quiz-Application/assets/118160035/07cd1b87-6994-451e-ae44-3c9124327408)
 ![Screenshot 2024-03-26 103229](https://github.com/mohdkaif2304/Quiz-Application/assets/118160035/bc82456f-17b2-40a2-bfad-7ec1b38e7c64)
